@@ -1,5 +1,5 @@
 {
-  "name": "update-nested-dependencies",
+  "name": "@chappa'ai/update-nested-dependencies",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -30,5 +30,10 @@
       "prettier --write",
       "git add"
     ]
+  },
+  "author": "Chappa'ai Team",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chappa-ai-monorepo/update-nested-dependencies"
   }
 }
